@@ -32,7 +32,7 @@
   import "prismjs-components-importer/esm/prism-bash";
  
 
-  import CodeFlask from 'codeflask';
+  import CodeFlask from '@acarl005/codeflask';
 
   import NiceSelect from "nice-select2/dist/js/nice-select2";
   import NiceSelectStyle from "nice-select2/dist/css/nice-select2.css";
